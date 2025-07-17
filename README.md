@@ -1,8 +1,5 @@
-<h1 align="center">🚀 Rohan Das</h1>
-<h3 align="center">Business Analytics & Data Science Enthusiast from Kolkata 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/32f0QbW.jpeg" width="100%" alt="Welcome Banner" />
+  <img src="https://i.imgur.com/NQiT1lL.jpeg" width="100%" alt="Welcome Banner" />
 </p>
 
 <div align="left">
@@ -18,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
@@ -32,7 +29,7 @@
 
 ## 📬 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:rohan.das23-25@bibs.co.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
