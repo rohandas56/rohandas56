@@ -1,5 +1,4 @@
-
-  <img src="https://i.imgur.com/NQiT1lL.jpeg" width="100%" alt="Welcome Banner" />
+<img src="https://i.imgur.com/NQiT1lL.jpeg" width="100%" alt="Welcome Banner" />
 </p>
 
 <div align="left">
