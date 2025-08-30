@@ -50,10 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandas56&layout=compact&theme=react&hide_border=true" height="180" />
 </p>
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohandas56&theme=onedark&margin-w=15&no-frame=true" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohandas56/rohandas56/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
